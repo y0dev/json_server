@@ -4,6 +4,11 @@
       "email": "some.email@some.domain.tld",
       "subject": "Some subject line",
       "body": "A request body.\n\nThanks!\n-- Aaron"
+    },
+    {
+      "email": "another.email@some.domain.tld",
+      "subject": "Some subject line",
+      "body": "A request body.\n\nThanks!\n-- Bill"
     }
   ]
 }
