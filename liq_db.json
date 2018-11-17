@@ -1,0 +1,5 @@
+{
+  "email": "some.email@some.domain.tld",
+  "subject": “Some subject line",
+  "body": "A request body.\n\nThanks!\n-- Aaron"
+}
